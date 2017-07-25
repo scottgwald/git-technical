@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d Scott Greenwald <swgreen@mit.edu> 1500987706 -0400	commit (initial): initial commit
+746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d 746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d Scott Greenwald <swgreen@mit.edu> 1500987730 -0400	checkout: moving from master to minimal
+746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d 6ceeda62a8f2cd8e7e18d35962ce0fd8e37d74f2 Scott Greenwald <swgreen@mit.edu> 1500987793 -0400	commit: chop in/out
+6ceeda62a8f2cd8e7e18d35962ce0fd8e37d74f2 746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d Scott Greenwald <swgreen@mit.edu> 1500987810 -0400	checkout: moving from minimal to master
+746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d 292dc533f53befda36d97a6dd15fd6998b4389bc Scott Greenwald <swgreen@mit.edu> 1500987842 -0400	commit: change in the middle
+292dc533f53befda36d97a6dd15fd6998b4389bc 6ceeda62a8f2cd8e7e18d35962ce0fd8e37d74f2 Scott Greenwald <swgreen@mit.edu> 1500987856 -0400	checkout: moving from master to minimal
+6ceeda62a8f2cd8e7e18d35962ce0fd8e37d74f2 34a40dda31797a88641c5809c014879e097593eb Scott Greenwald <swgreen@mit.edu> 1500987861 -0400	merge master: Merge made by the 'recursive' strategy.
+34a40dda31797a88641c5809c014879e097593eb 292dc533f53befda36d97a6dd15fd6998b4389bc Scott Greenwald <swgreen@mit.edu> 1500987891 -0400	checkout: moving from minimal to master
+292dc533f53befda36d97a6dd15fd6998b4389bc 726491a6ef46bc1d1143198dd2f5893b746f9464 Scott Greenwald <swgreen@mit.edu> 1500987907 -0400	commit: more middle stuff
+726491a6ef46bc1d1143198dd2f5893b746f9464 34a40dda31797a88641c5809c014879e097593eb Scott Greenwald <swgreen@mit.edu> 1500987933 -0400	checkout: moving from master to minimal
+34a40dda31797a88641c5809c014879e097593eb 273f9461d1c0fecbd443944170245e4fcd2b318f Scott Greenwald <swgreen@mit.edu> 1500987938 -0400	merge master: Merge made by the 'recursive' strategy.
+273f9461d1c0fecbd443944170245e4fcd2b318f 0858b6ae105f1a1aec0f496a615c0f27510f1236 Scott Greenwald <swgreen@mit.edu> 1500988017 -0400	commit: change in the middle originating in minimal branch
+0858b6ae105f1a1aec0f496a615c0f27510f1236 0858b6ae105f1a1aec0f496a615c0f27510f1236 Scott Greenwald <swgreen@mit.edu> 1500988042 -0400	checkout: moving from minimal to min-max
+0858b6ae105f1a1aec0f496a615c0f27510f1236 746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d Scott Greenwald <swgreen@mit.edu> 1500988095 -0400	rebase -i (start): checkout HEAD~4
+746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d 292dc533f53befda36d97a6dd15fd6998b4389bc Scott Greenwald <swgreen@mit.edu> 1500988095 -0400	rebase -i: fast-forward
+292dc533f53befda36d97a6dd15fd6998b4389bc 726491a6ef46bc1d1143198dd2f5893b746f9464 Scott Greenwald <swgreen@mit.edu> 1500988095 -0400	rebase -i: fast-forward
+726491a6ef46bc1d1143198dd2f5893b746f9464 0cfd569c026d0a2c40536c34f4db13d754722bab Scott Greenwald <swgreen@mit.edu> 1500988095 -0400	rebase -i (pick): change in the middle originating in minimal branch
+0cfd569c026d0a2c40536c34f4db13d754722bab 0cfd569c026d0a2c40536c34f4db13d754722bab Scott Greenwald <swgreen@mit.edu> 1500988095 -0400	rebase -i (finish): returning to refs/heads/min-max
+0cfd569c026d0a2c40536c34f4db13d754722bab 726491a6ef46bc1d1143198dd2f5893b746f9464 Scott Greenwald <swgreen@mit.edu> 1500988597 -0400	checkout: moving from min-max to master
+726491a6ef46bc1d1143198dd2f5893b746f9464 0cfd569c026d0a2c40536c34f4db13d754722bab Scott Greenwald <swgreen@mit.edu> 1500988602 -0400	merge min-max: Fast-forward

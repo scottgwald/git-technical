@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d Scott Greenwald <swgreen@mit.edu> 1500987730 -0400	branch: Created from HEAD
+746e80d05d4b0f6d30267f6c64b8ee4bfcd9d50d 6ceeda62a8f2cd8e7e18d35962ce0fd8e37d74f2 Scott Greenwald <swgreen@mit.edu> 1500987793 -0400	commit: chop in/out
+6ceeda62a8f2cd8e7e18d35962ce0fd8e37d74f2 34a40dda31797a88641c5809c014879e097593eb Scott Greenwald <swgreen@mit.edu> 1500987861 -0400	merge master: Merge made by the 'recursive' strategy.
+34a40dda31797a88641c5809c014879e097593eb 273f9461d1c0fecbd443944170245e4fcd2b318f Scott Greenwald <swgreen@mit.edu> 1500987938 -0400	merge master: Merge made by the 'recursive' strategy.
+273f9461d1c0fecbd443944170245e4fcd2b318f 0858b6ae105f1a1aec0f496a615c0f27510f1236 Scott Greenwald <swgreen@mit.edu> 1500988017 -0400	commit: change in the middle originating in minimal branch
